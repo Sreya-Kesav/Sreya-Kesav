@@ -11,10 +11,9 @@ Data Analyst with 3+ years turning raw data into decisions — SQL, Power BI, an
 
 ## 📌 Featured Projects
 
-**[Healthcare Analytics Dashb[([url](https://github.com/Sreya-Kesav/Supply-Chain-SQL-Project))](url)oard](#)**]— Power BI + SQL dashboard analyzing [Healthcare Operations analytics].
-Key insight: ["The analysis identified revenue drivers, patient demographics, doctor utilization patterns, and payment behavior, enabling better resource allocation and financial decision-making across hospital operations."].
+**[Healthcare Analytics Dashboard](https://github.com/Sreya-Kesav/healthcare-analytics-powerbi-sql)** — Power BI + SQL dashboard analyzing [dataset topic].
 
-[**[Supply Chain SQL Analysis](#)**]([url](https://github.com/Sreya-Kesav/Supply-Chain-SQL-Project)) — Complex SQL queries and views for supply chain KPI reporting.
+**[Supply Chain SQL Analysis](https://github.com/Sreya-Kesav/Supply-Chain-SQL-Project)** — Complex SQL queries and views for supply chain KPI reporting.
 
 ## 📫 Reach me
 [LinkedIn](https://www.linkedin.com/in/sreya-reddy-0754441a1/) · reddysrey07@gmail.com
