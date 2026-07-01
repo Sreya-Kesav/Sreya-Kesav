@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sreya Reddy K 👋
 
-<!--
-**Sreya-Kesav/Sreya-Kesav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with 3+ years turning raw data into decisions — SQL, Power BI, and AWS cloud data workflows.
 
-Here are some ideas to get you started:
+🔹 Built dashboards used by business teams for weekly performance tracking
+🔹 Wrote and optimized SQL for reporting at scale
+📍 Based in Coimbatore | Open to remote/hybrid roles in Chennai, Bengaluru, Hyderabad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+`SQL` `T-SQL` `Power BI` `DAX` `Power Query`  `Excel`
+
+## 📌 Featured Projects
+
+**[Healthcare Analytics Dashboard](#)** — Power BI + SQL dashboard analyzing [Healthcare Operations analytics].
+Key insight: ["The analysis identified revenue drivers, patient demographics, doctor utilization patterns, and payment behavior, enabling better resource allocation and financial decision-making across hospital operations."].
+
+**[Supply Chain SQL Analysis](#)** — Complex SQL queries and views for supply chain KPI reporting.
+
+## 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/sreya-reddy-0754441a1/) · reddysrey07@gmail.com
