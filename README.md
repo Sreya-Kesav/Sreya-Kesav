@@ -7,13 +7,8 @@ Data Analyst with 3+ years turning raw data into decisions — SQL, Power BI, an
 📍 Based in Coimbatore | Open to remote/hybrid roles in Chennai, Bengaluru, Hyderabad
 
 ## 🛠️ Stack
-`SQL` `T-SQL` `Power BI` `DAX` `Power Query`  `Excel`
+`SQL` `T-SQL` `Power BI` `DAX` `Power Query`  `Excel` `AWS IAM` `AWS S3` `AWS Glue` `Amazon Athena`
 
-## 📌 Featured Projects
-
-**[Healthcare Analytics Dashboard](https://github.com/Sreya-Kesav/healthcare-analytics-powerbi-sql)** — Power BI + SQL dashboard analyzing [dataset topic].
-
-**[Supply Chain SQL Analysis](https://github.com/Sreya-Kesav/Supply-Chain-SQL-Project)** — Complex SQL queries and views for supply chain KPI reporting.
 
 ## 📫 Reach me
 [LinkedIn](https://www.linkedin.com/in/sreya-reddy-0754441a1/) · reddysrey07@gmail.com
