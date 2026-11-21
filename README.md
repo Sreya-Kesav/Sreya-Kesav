@@ -1,4 +1,4 @@
-# # Hi, I'm Sreya Reddy K 👋
+# Hi, I'm Sreya Reddy K 👋
 
 ### Cloud & DevOps Engineer | AWS | Docker | Terraform | CI/CD | Monitoring
 
